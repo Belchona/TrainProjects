@@ -8,8 +8,11 @@ Namely:
 - analyze the main features that most strongly affect the outflow
 - formulate key findings and develop recommendations to improve the quality of work with clients
 
+What was done:
+- we identified 5 clusters of users by their tendency to churn
+- We identified the features that characterize each cluster.
 
-Key recommendations for marketing:
+Key recommendations for marketing based one key features for every cluster:
 
 - to look for partners near fitness center
 - the users located near the fitness center, but not from partners to interview about the employer and offer the employer partnership
